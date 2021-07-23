@@ -1,3 +1,12 @@
+---
+name: Onboarding
+about: This issue template is onboarding.
+title: خوش اومدی! [نام کارآموز] عزیز
+labels: ''
+assignees: ''
+
+---
+
 <div dir="rtl" align='right'>
 
 
