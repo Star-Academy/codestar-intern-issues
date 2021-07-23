@@ -1,7 +1,7 @@
 ---
 name: Software Engineering - Phase 09
 about: This issue template is based of Phase09-Elasticsearch contents.
-title: SE-Phase09-Team[Team Number]
+title: SE-Phase09-Team[TEAM_NUMBER_HERE]
 labels: ''
 assignees: ''
 
