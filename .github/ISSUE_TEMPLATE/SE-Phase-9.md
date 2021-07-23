@@ -1,15 +1,11 @@
 ---
-name: Phase 7
-about: This issue template is based of Phase07-Elasticsearch.md contents.
-title: Phase07-Team[Team Number]
+name: Software Engineering - Phase 9
+about: This issue template is based of Phase09-Elasticsearch contents.
+title: SE-Phase09-Team[Team Number]
 labels: ''
 assignees: ''
 
 ---
-
-This issue template is based of [Phase07-Elasticsearch.md](./Phase07-Elasticsearch.md) contents.
-Click on "Raw" button on right side of this page to see original markdown then create a new issue with orginal content of this tasklist:
-
 
 - [ ] Section 1: Read the introduction to Elasticsearch.
     - [ ] Name 3 products of Elastic stack:

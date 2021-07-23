@@ -1,15 +1,11 @@
 ---
-name: Phase 1
+name: Software Engineering - Phase 1
 about: This issue template is based of Phase01-Search contents.
-title: ''
+title: SE-Phase01-Team[Team Number]
 labels: ''
 assignees: ''
 
 ---
-
-This issue template is based of [Phase01-Search.md](https://github.com/Star-Academy/codestar-internship/blob/master/Projects/Phase01-Search.md) contents.
-Click on "Raw" button on right side of this page to see original markdown then create a new issue per team (two interns) in [this repo](https://github.com/Star-Academy/codestar-intern-issues/issues) with orginal content of tasklist below. Your issue title should be like this: `Phase01-Team5`
-
 
 - [ ] Section 1: Think individually about question i & ii before starting
 - [ ] Section 2: Read individually about Inverted-Index
@@ -22,3 +18,4 @@ Click on "Raw" button on right side of this page to see original markdown then c
   - [ ] Support for words starting with + (or feature)
   - [ ] Support for words starting with nothing (and feature)
   - [ ] Support for words starting with - (exclude feature)
+  

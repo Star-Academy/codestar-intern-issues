@@ -1,15 +1,11 @@
 ---
-name: Phase 8
-about: This issue template is based of Phase08-NEST.md contents.
-title: Phase08-Team[Team Number]
+name: Software Engineering - Phase 10
+about: This issue template is based of Phase10-NEST contents.
+title: SE-Phase10-Team[Team Number]
 labels: ''
 assignees: ''
 
 ---
-
-This issue template is based of [Phase08-Elasticsearch.md](./Phase08-NEST.md) contents.
-Click on "Raw" button on right side of this page to see original markdown then create a new issue with orginal content of this tasklist:
-
 
 - [ ] Section 1: Read introduction
 - [ ] Section 2: Introduction to NEST:

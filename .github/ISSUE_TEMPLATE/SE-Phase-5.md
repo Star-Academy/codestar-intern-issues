@@ -1,14 +1,11 @@
 ---
-name: Phase 5
-about: This issue template is based of Phase05-TDD.md contents.
-title: Phase05-Team[Team Number]
+name: Software Engineering - Phase 5
+about: This issue template is based of Phase05-TDD contents.
+title: SE-Phase05-Team[Team Number]
 labels: ''
 assignees: ''
 
 ---
-
-This issue template is based of [Phase05-TDD.md](https://github.com/Star-Academy/codestar-internship/blob/master/Projects/Phase05-TDD.md) contents.
-Click on "Raw" button on right side of this page to see original markdown then create a new issue with orginal content of this tasklist:
 
 - [ ] Section 1: Read about **TDD** concepts.
     - [ ] Fill here the steps of TDD cycle:

@@ -1,15 +1,11 @@
 ---
-name: Phase 3
+name: Software Engineering - Phase 3
 about: This issue template is based of Phase03-UnitTest contents.
-title: Phase03-Team[Team Number]
+title: SE-Phase03-Team[Team Number]
 labels: ''
 assignees: ''
 
 ---
-
-This issue template is based of [Phase03-UnitTest.md](https://github.com/Star-Academy/codestar-internship/blob/master/Projects/Phase03-UnitTest.md) contents.
-Click on "Raw" button on right side of this page to see original markdown then create a new issue with orginal content of this tasklist:
-
 
 - [ ] Section 1: Read about **Unit Test** and its importance
     - [ ] Find out what's Unit Testing
