@@ -1,7 +1,7 @@
 ---
 name: Software Engineering - Phase 06
 about: This issue template is based of Phase06-CICD contents.
-title: SE-Phase06-Team[Team Number]
+title: SE-Phase06-Team[TEAM_NUMBER_HERE]
 labels: ''
 assignees: ''
 
