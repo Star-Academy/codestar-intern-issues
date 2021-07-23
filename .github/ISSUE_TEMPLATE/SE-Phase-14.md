@@ -1,5 +1,5 @@
 ---
-name: Software Engineering - Phase 14
+name: Software Engineering - Phase 14 (Optional, just for fast teams)
 about: This issue template is based of Phase14-APM contents.
 title: SE-Phase14-Team[Team Number]
 labels: ''
