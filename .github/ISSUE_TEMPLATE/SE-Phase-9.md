@@ -1,5 +1,5 @@
 ---
-name: Software Engineering - Phase 9
+name: Software Engineering - Phase 09
 about: This issue template is based of Phase09-Elasticsearch contents.
 title: SE-Phase09-Team[Team Number]
 labels: ''

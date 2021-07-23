@@ -1,5 +1,5 @@
 ---
-name: Software Engineering - Phase 8
+name: Software Engineering - Phase 08
 about: This issue template is based of Phase08-EFCore contents.
 title: SE-Phase08-Team[Team Number]
 labels: ''

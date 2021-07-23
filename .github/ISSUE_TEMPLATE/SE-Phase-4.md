@@ -1,5 +1,5 @@
 ---
-name: Software Engineering - Phase 4
+name: Software Engineering - Phase 04
 about: This issue template is based of Phase04-csharp contents.
 title: SE-Phase04-Team[Team Number]
 labels: ''

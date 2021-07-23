@@ -1,5 +1,5 @@
 ---
-name: Software Engineering - Phase 2
+name: Software Engineering - Phase 02
 about: This issue template is based of Phase02-CodeReview contents.
 title: SE-Phase02-Team[Team Number]
 labels: ''
