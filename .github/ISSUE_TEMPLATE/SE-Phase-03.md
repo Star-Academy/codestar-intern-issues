@@ -1,7 +1,7 @@
 ---
 name: Software Engineering - Phase 03
 about: This issue template is based of Phase03-UnitTest contents.
-title: SE-Phase03-Team[Team Number]
+title: SE-Phase03-Team[TEAM_NUMBER_HERE]
 labels: ''
 assignees: ''
 
