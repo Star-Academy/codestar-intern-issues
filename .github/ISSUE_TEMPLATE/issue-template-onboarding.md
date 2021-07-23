@@ -1,6 +1,6 @@
 ---
-name: Onboarding
-about: This issue template is onboarding.
+name: Onboarding (mentors only)
+about: Only mentors open this issue
 title: خوش اومدی! [نام کارآموز] عزیز
 labels: ''
 assignees: ''
