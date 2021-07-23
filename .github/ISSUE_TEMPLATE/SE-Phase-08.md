@@ -1,7 +1,7 @@
 ---
 name: Software Engineering - Phase 08
 about: This issue template is based of Phase08-EFCore contents.
-title: SE-Phase08-Team[Team Number]
+title: SE-Phase08-Team[TEAM_NUMBER_HERE]
 labels: ''
 assignees: ''
 
