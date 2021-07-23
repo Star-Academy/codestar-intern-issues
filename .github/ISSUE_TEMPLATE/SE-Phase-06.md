@@ -1,5 +1,5 @@
 ---
-name: Software Engineering - Phase 06
+name: Software Engineering - Phase 06 (Optional, just for fast teams)
 about: This issue template is based of Phase06-CICD contents.
 title: SE-Phase06-Team[TEAM_NUMBER_HERE]
 labels: ''
