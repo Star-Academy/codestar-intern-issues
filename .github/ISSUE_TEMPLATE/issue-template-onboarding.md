@@ -2,7 +2,7 @@
 name: Onboarding (mentors only)
 about: Only mentors open this issue
 title: خوش اومدی! [نام کارآموز] عزیز
-labels: ''
+labels: [Onboarding]
 assignees: ''
 
 ---
