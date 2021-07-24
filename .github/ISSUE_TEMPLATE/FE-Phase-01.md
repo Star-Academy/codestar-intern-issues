@@ -9,11 +9,9 @@ assignees: ''
 
 - [ ] Introduction
 - [ ] Learning
-
   - [ ] Semantic Elements
   - [ ] Text Formatting Elements
   - [ ] Images
-
 - [ ] Project
   - [ ] Landing
   - [ ] Signup
@@ -21,4 +19,3 @@ assignees: ''
   - [ ] Songs List
   - [ ] Playlist
   - [ ] Song
-  
