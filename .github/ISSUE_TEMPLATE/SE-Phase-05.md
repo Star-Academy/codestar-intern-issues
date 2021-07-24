@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 05
 about: This issue template is based of Phase05-TDD contents.
 title: SE-Phase05-Team[TEAM_NUMBER_HERE]
-labels: ''
+labels: [SE]
 assignees: ''
 
 ---
