@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 11 - Part 2
 about: This issue template is based of Phase11-Web contents.
 title: SE-Phase11-Part2-Team[TEAM_NUMBER_HERE]
-labels: ''
+labels: [SE]
 assignees: ''
 
 ---
