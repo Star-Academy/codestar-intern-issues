@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 07
 about: This issue template is based of Phase07-SQL contents.
 title: SE-Phase07-Team[TEAM_NUMBER_HERE]
-labels: ''
+labels: [SE]
 assignees: ''
 
 ---
