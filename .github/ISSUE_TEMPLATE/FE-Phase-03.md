@@ -1,6 +1,6 @@
 ---
 name: Front End - Phase 03
-about: This issue template is based of Phase03-SCSS contents.
+about: This issue template is based of PhaseF03-SCSS contents.
 title: FE-Phase03-Team[TEAM_NUMBER_HERE]
 labels: [FE]
 assignees: ''
