@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 01
 about: This issue template is based of Phase01-Search contents.
 title: SE-Phase01-Team[TEAM_NUMBER_HERE]
-labels: ''
+labels: [SE]
 assignees: ''
 
 ---
