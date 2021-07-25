@@ -58,7 +58,6 @@ public class InvertedIndex {
     public Set<String> search(ArrayList<String> wordsToFind) {
         Set<String> answer = new HashSet<>();
         for (String words : wordsToFind) {
-
             String word = words.toLowerCase();
             for (String key : indexedWords.keySet()) {
                 Matcher matcher = Pattern.compile(word).matcher(key);
@@ -113,10 +112,9 @@ public class InvertedIndex {
     private static class Tuple {
         private final int fileNumber;
 
-        public Tuple(int fileno) {
-            this.fileNumber = fileno;
+        public Tuple(int fileNumber) {
+            this.fileNumber = fileNumber;
         }
-
     }
 }
  
