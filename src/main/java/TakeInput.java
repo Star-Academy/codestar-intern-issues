@@ -14,13 +14,13 @@ public class TakeInput {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             String input = scanner.nextLine();
-            String[] inputSplited = input.split("(\\s+)");
+            String[] inputSplit = input.split("(\\s+)");
             if (input.equals("--back"))
                 break;
             ArrayList<String> plusStrings = new ArrayList<>();
             ArrayList<String> minusStrings = new ArrayList<>();
             ArrayList<String> normalStrings = new ArrayList<>();
-            for (String string : inputSplited)
+            for (String string : inputSplit)
                 addItemToOneOfThreeArrayLists(string, plusStrings, minusStrings, normalStrings);
             showResult(processes(idx, plusStrings, minusStrings, normalStrings));
         }
@@ -42,7 +42,6 @@ public class TakeInput {
             commons.add(idx.search(arrayList));
         }
         answer = idx.findCommonFiles(answer, commons);
-        System.out.println(answer);
         answer = idx.deleteGivenFiles(answer, toDelete);
         return answer;
     }

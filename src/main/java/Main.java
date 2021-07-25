@@ -8,7 +8,7 @@ public class Main {
     }
 
     public static void preprocesses() {
-        File directoryPath = new File("C:\\Users\\ASUS\\IdeaProjects\\codestar\\src\\main\\resources\\EnglishData");
+        File directoryPath = new File("C:\\Users\\mjmah\\IdeaProjects\\codestar-intern-issues\\src\\main\\resources\\EnglishData");
         File[] filesList = directoryPath.listFiles();
         try {
             InvertedIndex idx = new InvertedIndex();

@@ -16,7 +16,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class InvertedIndex {
-    List<String> stopwords = Arrays.asList("a", "able", "about",
+    List<String> stopWords = Arrays.asList("a", "able", "about",
             "across", "after", "all", "almost", "also", "am", "among", "an",
             "and", "any", "are", "as", "at", "be", "because", "been", "but",
             "by", "can", "cannot", "could", "dear", "did", "do", "does",
@@ -47,7 +47,7 @@ public class InvertedIndex {
                 .readLine()) {
             for (String _word : line.split("\\W+")) {
                 String word = _word.toLowerCase();
-                if (stopwords.contains(word))
+                if (stopWords.contains(word))
                     continue;
                 List<Tuple> idx = indexedWords.computeIfAbsent(word, k -> new LinkedList<>());
                 idx.add(new Tuple(fileNumber));
