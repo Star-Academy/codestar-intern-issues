@@ -2,7 +2,7 @@
 name: Front End - Phase 06
 about: This issue template is based of PhaseF05-Advanced-JavaScript contents.
 title: FE-Phase06-Team[TEAM_NUMBER_HERE]
-labels: [FE]
+labels: FE
 assignees: ''
 
 ---
@@ -27,5 +27,3 @@ assignees: ''
   - [ ] login
   - [ ] playlist
   - [ ] song details
-
-

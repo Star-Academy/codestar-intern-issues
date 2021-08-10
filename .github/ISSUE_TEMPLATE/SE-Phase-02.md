@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 02
 about: This issue template is based of Phase02-CodeReview contents.
 title: SE-Phase02-Team[TEAM_NUMBER_HERE]
-labels: [SE]
+labels: SE
 assignees: ''
 
 ---

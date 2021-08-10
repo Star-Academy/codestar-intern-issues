@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 14 (Optional, just for fast teams)
 about: This issue template is based of Phase14-APM contents.
 title: SE-Phase14-Team[Team Number]
-labels: [SE]
+labels: SE
 assignees: ''
 
 ---
@@ -32,4 +32,3 @@ assignees: ''
     - [ ] Read Span Api.
     - [ ] Instrument Public Api in your code with 2 level depth.
 - [ ] Section 6: Take a look at Apm dashboard in kibana and check your application performance.
-

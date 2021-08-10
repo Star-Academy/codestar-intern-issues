@@ -2,7 +2,7 @@
 name: Front End - Phase 01
 about: This issue template is based of PhaseF01-HTML contents.
 title: FE-Phase01-Team[TEAM_NUMBER_HERE]
-labels: [FE]
+labels: FE
 assignees: ''
 
 ---

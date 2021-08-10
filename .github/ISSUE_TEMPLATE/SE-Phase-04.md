@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 04
 about: This issue template is based of Phase04-csharp contents.
 title: SE-Phase04-Team[TEAM_NUMBER_HERE]
-labels: [SE]
+labels: SE
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Front End - Phase 07
 about: This issue template is based of PhaseF07-UnitTest contents.
 title: FE-Phase07-Team[TEAM_NUMBER_HERE]
-labels: [FE]
+labels: FE
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 01
 about: This issue template is based of Phase01-Search contents.
 title: SE-Phase01-Team[TEAM_NUMBER_HERE]
-labels: [SE]
+labels: SE
 assignees: ''
 
 ---
@@ -18,4 +18,3 @@ assignees: ''
   - [ ] Support for words starting with + (or feature)
   - [ ] Support for words starting with nothing (and feature)
   - [ ] Support for words starting with - (exclude feature)
-  

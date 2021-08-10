@@ -2,11 +2,10 @@
 name: Software Engineering - Phase 07
 about: This issue template is based of Phase07-SQL contents.
 title: SE-Phase07-Team[TEAM_NUMBER_HERE]
-labels: [SE]
+labels: SE
 assignees: ''
 
 ---
-
 
 - [ ] Section 1: Read the introduction to SQL.
 - [ ] Section 2: Understand basic concepts.
