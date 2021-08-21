@@ -1,4 +1,11 @@
-This issue template is based of [Phase17-ETL.md](./Phase17-ETL.md) contents. Go to [Issue Repo](https://github.com/Star-Academy/codestar-intern-issues/issues/new/choose) and click on Get started for this phase.
+---
+name: Software Engineering - Phase 17
+about: This issue template is based of Phase17-ETL contents.
+title: SE-Phase17-Team[Team Number]
+labels: SE
+assignees: ''
+
+---
 
 
 - [ ] Read Introduction to ETL and provided links
