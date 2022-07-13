@@ -17,8 +17,9 @@ assignees: ''
 
 - [ ] Read about **NuGet** and learn how to use it.
   - [ ] Install **System.Text.Json** and serialize an object.
+
 - [ ] Advanced Knowledge:
-  - [ ] Follow mentioned tutorial.
+  - [ ] Follow mentioned tutorial and learn about Reading data from **Console**.
   - [ ] Read about **Naming Guidelines** in C#.
   - [ ] Install ".Net Interactive".
     - [ ] Execute first code.
@@ -41,6 +42,6 @@ Link of other PR(s) you agreed to review:
 
 - [ ] Your own PR is reviewed and approved by at least one other team.
 
-- [ ] Your own PR is reviewed and approved by manager (mentor 1).
+- [ ] Your own PR is reviewed and approved by mentor.
 
 - [ ] Your own PR is merged.

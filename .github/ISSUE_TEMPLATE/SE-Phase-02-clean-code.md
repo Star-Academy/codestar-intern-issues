@@ -65,9 +65,7 @@ assignees: ''
 
     - [ ] After fixing all comments ask reviewers to approve your PR.
 
-    - [ ] Now after other team approval, ask your mentor (mentor 2) to review your PR.
-
-    - [ ] Now after your mentor approval, ask your manager (mentor 1) to review your PR.
+    - [ ] Now after other team approval, ask your mentor to review your PR.
 
     - [ ] After they approved your PR you can merge your PR to master branch, so merge your PR!
 
