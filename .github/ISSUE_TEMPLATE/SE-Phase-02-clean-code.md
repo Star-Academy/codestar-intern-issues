@@ -1,6 +1,6 @@
 ---
 name: Software Engineering - Phase 02
-about: This issue template is based of Phase02 (clean code) contents.
+about: This issue template is based on Phase02 (clean code) contents.
 title: CodeStar[YEAR]-SE-Phase02-Team[TEAM_NUMBER_HERE]
 labels: SE
 assignees: ''
