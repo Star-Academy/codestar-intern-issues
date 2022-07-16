@@ -2,7 +2,7 @@
 name: (MENTORS ONLY) Onboarding
 title: نام کارآموز عزیز خوش آمدی!
 labels: Onboarding
-about: ''
+about: Only mentors can use this issue template
 ---
 
 <div dir="rtl">

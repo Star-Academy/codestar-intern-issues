@@ -1,8 +1,8 @@
 ---
 name: Frontend - Phase 02
-title: CodeStar[YEAR]-FE-Phase02-Team[TEAM_NUMBER]
+title: CodeStar[YEAR]-FE-Phase01-Team[TEAM_NUMBER]
 labels: FE
-about: ''
+about: This issue template is based on frontend phase 02 document
 ---
 
 -   [ ] Introduction

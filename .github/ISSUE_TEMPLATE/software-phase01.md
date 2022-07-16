@@ -2,7 +2,7 @@
 name: Software Engineering - Phase 01
 title: CodeStar[YEAR]-SE-Phase01-Team[TEAM_NUMBER]
 labels: SE
-about: ''
+about: This issue template is based on software engineering phase 01 document
 ---
 
 -   [ ] Basic Knowledge
