@@ -57,10 +57,10 @@ about: Only mentors can use this issue template
 
 -   برنامه جلسات غیر‌فنی و کارکرد هر یک را از [اینجا](https://github.com/Star-Academy/codestar-internship/blob/master/Non-Tech/non-tech-sessions.md) مطالعه کن
 
-    -   بخش جلسات دورهمی رو مطالعه کن
-    -   بخش جلسات AMA رو مطالعه کن
-    -   بخش جلسات یک به یک رو مطالعه کن
-    -   بخش جلسات Coffee Chats رو مطالعه کن
+-   بخش جلسات دورهمی رو مطالعه کن
+-   بخش جلسات AMA رو مطالعه کن
+-   بخش جلسات یک به یک رو مطالعه کن
+-   بخش جلسات Coffee Chats رو مطالعه کن
 
 -   وقتی کار‌های هفته اول رو انجام دادی لیبل "Week 01 - Complete" رو به Issue اضافه کن
 
@@ -74,10 +74,6 @@ about: Only mentors can use this issue template
 
 -   در این هفته و در هفته‌های بعد با سه نفر از اعضای باقی تیم‌ها جلسۀ Coffee Chat برگزار کن و سعی کن بیشتر با بقیه بچه‌ها در این جلسات آشنا بشی. مدت زمان پیشنهادی برای این جلسات نیم ساعته
 
-    -   جلسه اول Coffee Chat برگزار شد
-    -   جلسه دوم Coffee Chat برگزار شد
-    -   جلسه سوم Coffee Chat برگزار شد
-
 -   به جلسه [یک به یک](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/) با منتور برو
 
 -   وقتی کار‌های هفته دوم رو انجام دادی لیبل "week 02 - Complete" رو به Issue اضافه کن
@@ -87,9 +83,6 @@ about: Only mentors can use this issue template
 ### کارهای کارآموز
 
 -   نمی‌خوایم توی کارآموزی تک‌بعدی باشی و فقط کار کنی، پس حداقل در دو مورد از دورهمی‌ها و مسابقه‌ها شرکت کن.
-
-    -   در یکی از دورهمی ها شرکت کردم
-    -   در یکی از بازی‌ها/مسابقه‌ها شرکت کردم
 
 -   وقتی کار‌های هفته سوم رو انجام دادی لیبل "week 03 - Complete" رو به ایشوت متصل کن
 
