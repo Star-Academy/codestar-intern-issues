@@ -56,12 +56,10 @@ about: Only mentors can use this issue template
 ### کار‌های کارآموز
 
 -   برنامه جلسات غیر‌فنی و کارکرد هر یک را از [اینجا](https://github.com/Star-Academy/codestar-internship/blob/master/Non-Tech/non-tech-sessions.md) مطالعه کن
-
 -   بخش جلسات دورهمی رو مطالعه کن
 -   بخش جلسات AMA رو مطالعه کن
 -   بخش جلسات یک به یک رو مطالعه کن
 -   بخش جلسات Coffee Chats رو مطالعه کن
-
 -   وقتی کار‌های هفته اول رو انجام دادی لیبل "Week 01 - Complete" رو به Issue اضافه کن
 
 ## هفته دوم
@@ -73,9 +71,7 @@ about: Only mentors can use this issue template
 ### کارهای کارآموز
 
 -   در این هفته و در هفته‌های بعد با سه نفر از اعضای باقی تیم‌ها جلسۀ Coffee Chat برگزار کن و سعی کن بیشتر با بقیه بچه‌ها در این جلسات آشنا بشی. مدت زمان پیشنهادی برای این جلسات نیم ساعته
-
 -   به جلسه [یک به یک](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/) با منتور برو
-
 -   وقتی کار‌های هفته دوم رو انجام دادی لیبل "week 02 - Complete" رو به Issue اضافه کن
 
 ## هفته سوم
@@ -83,7 +79,6 @@ about: Only mentors can use this issue template
 ### کارهای کارآموز
 
 -   نمی‌خوایم توی کارآموزی تک‌بعدی باشی و فقط کار کنی، پس حداقل در دو مورد از دورهمی‌ها و مسابقه‌ها شرکت کن.
-
 -   وقتی کار‌های هفته سوم رو انجام دادی لیبل "week 03 - Complete" رو به ایشوت متصل کن
 
 ## هفته چهارم
@@ -94,11 +89,9 @@ about: Only mentors can use this issue template
 
 ### کارهای کارآموز
 
--   در
-    جلسه [AMA](https://about.gitlab.com/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings)
-    شرکت کن و هر چیزی که در مورد تیم ستاره، گذشته‌، حال و آینده‌اش دوست داری بپرس
+-   در جلسه [AMA](https://about.gitlab.com/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings) شرکت کن و هر چیزی که در مورد تیم ستاره، گذشته‌، حال و آینده‌اش دوست داری بپرس
 -   خسته نباشی، کارای این ایشو تموم شد پس این ایشو رو Close کن
 
-در صورتی که برای بهبود این قالب پیشنهادی داری لطفا یک Pull Request ایجاد کن و اون رو به @Star-Academy/people-experience-associate واگذار کن تا در بهبود سند خوش‌آمدگویی برای دوستانی که در دوره‌های آینده شرکت می‌کنن سهیم باشی.
+در صورتی که برای بهبود این قالب پیشنهادی داری لطفا یک Pull Request ایجاد کن تا در بهبود سند خوش‌آمدگویی برای دوستانی که در دوره‌های آینده شرکت می‌کنن سهیم باشی.
 
 </div>
