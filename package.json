@@ -1,0 +1,16 @@
+{
+    "name": "codestar-intern-issues",
+    "version": "1.0.0",
+    "description": "This repo is used just for interns' issues, don't push code or documents please!",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Star-Academy/codestar-intern-issues.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Star-Academy/codestar-intern-issues/issues"
+    },
+    "homepage": "https://github.com/Star-Academy/codestar-intern-issues#readme",
+    "devDependencies": {
+        "prettier": "^2.7.1"
+    }
+}

@@ -1,34 +1,35 @@
 ---
 name: Software Engineering - Phase 03
-about: This issue template is based on Phase03 (C#) contents.
 title: CodeStar[YEAR]-SE-Phase03-Team[TEAM_NUMBER_HERE]
 labels: SE
 assignees: ''
-
 ---
 
-- [ ] Install **Requirements**:
-  - [ ] Install **.NET SDK**.
-  - [ ] Install VS Code **C# Extension**.
+-   [ ] Install **Requirements**:
 
-- [ ] Read about **Solution** and **Project** in C# environment.
+    -   [ ] Install **.NET SDK**.
+    -   [ ] Install VS Code **C# Extension**.
 
-- [ ] Write your first Hello World C# app.
+-   [ ] Read about **Solution** and **Project** in C# environment.
 
-- [ ] Read about **NuGet** and learn how to use it.
-  - [ ] Install **System.Text.Json** and serialize an object.
+-   [ ] Write your first Hello World C# app.
 
-- [ ] Advanced Knowledge:
-  - [ ] Follow mentioned tutorial and learn about Reading data from **Console**.
-  - [ ] Read about **Naming Guidelines** in C#.
-  - [ ] Install ".Net Interactive".
-    - [ ] Execute first code.
-    - [ ] Execute second code.
-  - [ ] Read about **Lambda Expressions**.
-  - [ ] Read about **Extension Method**.
-  - [ ] Read about **LINQ**.
+-   [ ] Read about **NuGet** and learn how to use it.
 
-- [ ] Implement Student Grades & Average Project in C#
+    -   [ ] Install **System.Text.Json** and serialize an object.
+
+-   [ ] Advanced Knowledge:
+
+    -   [ ] Follow mentioned tutorial and learn about Reading data from **Console**.
+    -   [ ] Read about **Naming Guidelines** in C#.
+    -   [ ] Install ".Net Interactive".
+        -   [ ] Execute first code.
+        -   [ ] Execute second code.
+    -   [ ] Read about **Lambda Expressions**.
+    -   [ ] Read about **Extension Method**.
+    -   [ ] Read about **LINQ**.
+
+-   [ ] Implement Student Grades & Average Project in C#
 
 ### Review
 
@@ -40,8 +41,8 @@ Link of other PR(s) you agreed to review:
 
 `[FILL HERE WITH LINK OF PR(s) YOU REVIEWED.]`
 
-- [ ] Your own PR is reviewed and approved by at least one other team.
+-   [ ] Your own PR is reviewed and approved by at least one other team.
 
-- [ ] Your own PR is reviewed and approved by mentor.
+-   [ ] Your own PR is reviewed and approved by mentor.
 
-- [ ] Your own PR is merged.
+-   [ ] Your own PR is merged.
