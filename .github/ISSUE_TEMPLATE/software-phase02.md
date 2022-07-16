@@ -2,7 +2,6 @@
 name: Software Engineering - Phase 02
 title: CodeStar[YEAR]-SE-Phase02-Team[TEAM_NUMBER]
 labels: SE
-assignees: ''
 ---
 
 -   [ ] Clean Code Importance

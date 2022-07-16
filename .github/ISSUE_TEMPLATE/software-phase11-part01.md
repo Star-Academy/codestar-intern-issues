@@ -2,7 +2,6 @@
 name: Software Engineering - Phase 11 - Part 1
 title: SE-Phase11-Part1-Team[TEAM_NUMBER]
 labels: SE
-assignees: ''
 ---
 
 -   [ ] Before starting: Read the link about history and purpose of creating & developing Web, then answer this questions:

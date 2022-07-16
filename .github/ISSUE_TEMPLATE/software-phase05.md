@@ -2,7 +2,6 @@
 name: Software Engineering - Phase 05
 title: CodeStar[YEAR]-SE-Phase05-Team[TEAM_NUMBER]
 labels: SE
-assignees: ''
 ---
 
 -   [ ] Read about **TDD** concepts.

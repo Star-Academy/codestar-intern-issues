@@ -2,7 +2,6 @@
 name: Software Engineering - Phase 08
 title: SE-Phase08-Team[TEAM_NUMBER]
 labels: SE
-assignees: ''
 ---
 
 -   [ ] Implement Past project with EfCore in C#

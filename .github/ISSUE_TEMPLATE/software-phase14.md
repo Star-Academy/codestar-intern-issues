@@ -2,7 +2,6 @@
 name: Software Engineering - Phase 14 (Optional, just for fast teams)
 title: SE-Phase14-Team[Team Number]
 labels: SE
-assignees: ''
 ---
 
 -   [ ] Section 1: Read about importance of application performance monitoring.

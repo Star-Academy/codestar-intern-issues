@@ -2,7 +2,6 @@
 name: Software Engineering - Phase 17
 title: SE-Phase17-Team[Team Number]
 labels: SE
-assignees: ''
 ---
 
 -   [ ] Read Introduction to ETL and provided links

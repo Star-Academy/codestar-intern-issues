@@ -2,7 +2,6 @@
 name: Software Engineering - Phase 04
 title: CodeStar[YEAR]-SE-Phase04-Team[TEAM_NUMBER]
 labels: SE
-assignees: ''
 ---
 
 -   [ ] Read about **Unit Test** and its importance.

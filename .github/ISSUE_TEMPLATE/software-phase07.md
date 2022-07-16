@@ -2,7 +2,6 @@
 name: Software Engineering - Phase 07
 title: SE-Phase07-Team[TEAM_NUMBER]
 labels: SE
-assignees: ''
 ---
 
 -   [ ] Section 1: Read the introduction to SQL.

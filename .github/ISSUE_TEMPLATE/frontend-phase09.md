@@ -2,7 +2,6 @@
 name: Frontend - Phase 09
 title: FE-Phase09-Team[TEAM_NUMBER]
 labels: FE
-assignees: ''
 ---
 
 -   [ ] Introduction
