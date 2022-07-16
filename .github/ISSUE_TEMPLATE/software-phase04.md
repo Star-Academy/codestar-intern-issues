@@ -8,9 +8,9 @@ labels: SE
 
     -   [ ] Find out what's Unit Testing
     -   [ ] Write three reasons of using Unit Testing in Software development:
-        1. `[FILL HERE WITH REASON]`
-        1. `[FILL HERE WITH REASON]`
-        1. `[FILL HERE WITH REASON]`
+        1. `[REASON 1]`
+        1. `[REASON 2]`
+        1. `[REASON 3]`
 
 -   [ ] Read about **Code Coverage** and its importance in Unit Testing
 
@@ -21,8 +21,8 @@ labels: SE
 
 -   [ ] Read about the effect of SOLID principles on Unit Testing
 
-    -   [ ] Fill here the effects briefly:
-        -   `[FILL HERE]`
+    -   [ ] Write your findings briefly:
+        -   `[ANSWER]`
 
 -   [ ] **Mocking** technique:
 
@@ -35,7 +35,7 @@ labels: SE
     -   [ ] Copy project to your own Repository
     -   [ ] Start writing tests
     -   [ ] Increase code coverage (line or statement coverage) to at least 95%:
-            `[FILL HERE YOUR CODE COVERAGE PERCENTAGE]`
+            `[CODE COVERAGE PERCENTAGE]`
 
 ### Review
 
