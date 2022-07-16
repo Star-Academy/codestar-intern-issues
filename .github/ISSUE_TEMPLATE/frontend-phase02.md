@@ -1,11 +1,18 @@
 ---
 name: Frontend - Phase 02
-title: FE-Phase02-Team[TEAM_NUMBER]
+title: CodeStar[YEAR]-FE-Phase02-Team[TEAM_NUMBER]
 labels: FE
 ---
 
 -   [ ] Introduction
 -   [ ] Learning
-    -   [ ] Box Model
-    -   [ ] Units
-    -   [ ] Selectors
+    -   [ ] Angular
+    -   [ ] HTML
+    -   [ ] IMAGES
+    -   [ ] Flexbox & Grid
+-   [ ] Project
+    -   [ ] Planning
+        -   [ ] Find Related Apps
+        -   [ ] Discuss What Features You Want to Have
+        -   [ ] Discuss How You Want Your App To Look
+    -   [ ] Landing Page
