@@ -2,6 +2,7 @@
 name: Frontend - Phase 05
 title: CodeStar[YEAR]-FE-Phase05-Team[TEAM_NUMBER]
 labels: FE
+about: ''
 ---
 
 -   [ ] Introduction

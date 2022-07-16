@@ -2,6 +2,7 @@
 name: Software Engineering - Phase 06 (Optional, just for fast teams)
 title: CodeStar[YEAR]-SE-Phase06-Team[TEAM_NUMBER]
 labels: SE
+about: ''
 ---
 
 -   [ ] Read about **CI/CD**

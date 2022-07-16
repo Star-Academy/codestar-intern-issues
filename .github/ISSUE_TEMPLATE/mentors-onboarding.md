@@ -2,6 +2,7 @@
 name: Onboarding (MENTORS ONLY)
 title: نام کارآموز عزیز خوش آمدی!
 labels: Onboarding
+about: ''
 ---
 
 <div dir="rtl">

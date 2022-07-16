@@ -2,6 +2,7 @@
 name: Software Engineering - Phase 01
 title: CodeStar[YEAR]-SE-Phase01-Team[TEAM_NUMBER]
 labels: SE
+about: ''
 ---
 
 -   [ ] Basic Knowledge
