@@ -9,7 +9,7 @@ about: Only mentors can use this issue template
 
 ## قبل از شروع دوره
 
-<details>
+<details dir="rtl">
   <summary>کارهای منتور جونیور</summary>
 
 -   در افتتاحیه شرکت کن
@@ -17,7 +17,7 @@ about: Only mentors can use this issue template
 
  </details>
 
-<details>
+<details dir="rtl">
   <summary>کار‌های کارآموز</summary>
 
 -   در افتتاحیه شرکت کن
@@ -26,7 +26,7 @@ about: Only mentors can use this issue template
 
 ## کار‌های روز اول
 
-<details>
+<details dir="rtl">
   <summary>کار‌های منتور جونیور</summary>
 
 -   کارآموزت رو به GitHub دعوت کن و اگه توضیح اضافی در این مورد خواست بهش بده
@@ -34,7 +34,7 @@ about: Only mentors can use this issue template
 
 </details>
 
-<details>
+<details dir="rtl">
   <summary>کار‌های کارآموز</summary>
   
   -  از منتور پیگیری کن که به GitHub اضافه بشی
@@ -54,25 +54,30 @@ about: Only mentors can use this issue template
 
 توجه داشته باش هر روز جلسات روزانه با هم‌تیمی و منتور‌ها برگزار بشه و همچنین حتماً در کارگاه‌هایی که منتور‌ها برگزار می‌کنن حضور پیدا کن.
 
--   کار‌های منتور‌ها
+<details dir="rtl">
+  <summary>کار‌های منتورها</summary>
 
-    -   هر روز جلسه روزانه رو برگزار و روند رشد کارآموزها رو بررسی کنین
-    -   اگه مشکل فنی یا غیر فنی وجود داره که نیاز به بررسی بیشتر آکادمی داره، حتماً به مسئول آکادمی اطلاع بدین
+-   هر روز جلسه روزانه رو برگزار و روند رشد کارآموزها رو بررسی کنین
+-   اگه مشکل فنی یا غیر فنی وجود داره که نیاز به بررسی بیشتر آکادمی داره، حتماً به مسئول آکادمی اطلاع بدین
 
--   کار‌های کارآموز
-    -   هر روز با هم‌گروهیت از ابتدای شروع کار، جلسه روزانه برگزار کن و برنامه کاری روز رو با هم تنظیم کنین و جلو برین
-    -   عصرها به جلسه روزانه با منتورهات برو و گزارشی از پیشرفت‌ها، مشکلات و اتفاقات روزانه به همراه برنامه فردا ارائه بده
+</details>
+
+<details dir="rtl">
+  <summary>کار‌های کارآموز</summary>
+
+-   هر روز با هم‌گروهیت از ابتدای شروع کار، جلسه روزانه برگزار کن و برنامه کاری روز رو با هم تنظیم کنین و جلو برین
+-   عصرها به جلسه روزانه با منتورهات برو و گزارشی از پیشرفت‌ها، مشکلات و اتفاقات روزانه به همراه برنامه فردا ارائه بده
+
+ </details>
 
 ## کار‌های غیر‌فنی
 
 ## هفته اول
 
-<details>
+<details dir="rtl">
   <summary>کار‌های کارآموز</summary>
   
-  -  برنامه جلسات غیر‌فنی و کارکرد هر یک را از
-     [اینجا](https://github.com/Star-Academy/codestar-internship/blob/master/Non-Tech/non-tech-sessions.md)
-    مطالعه کن
+  -  برنامه جلسات غیر‌فنی و کارکرد هر یک را از [اینجا](https://github.com/Star-Academy/codestar-internship/blob/master/Non-Tech/non-tech-sessions.md) مطالعه کن
      -  بخش جلسات دورهمی رو مطالعه کن
      -  بخش جلسات AMA رو مطالعه کن
      -  بخش جلسات یک به یک رو مطالعه کن
@@ -84,7 +89,7 @@ about: Only mentors can use this issue template
 
 ## هفته دوم
 
-<details>
+<details dir="rtl">
   <summary>کارهای کارآموز</summary>
 
 -   در این هفته و هفته‌های آینده با سه نفر از اعضای بقیه تیم ها جلسه [Coffee Chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) برنامه ریزی کن و سعی کن بیشتر با بقیه بچه‌ها در این جلسات آشنا بشی. مدت زمان پیشنهادی برای این جلسات نیم ساعته
@@ -99,7 +104,7 @@ about: Only mentors can use this issue template
 
 </details>
 
-<details>
+<details dir="rtl">
   <summary>کارهای منتور‌ها</summary>
   
   -  یکی از منتور‌ها جلسه [یک به یک](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/) با کارآموز برنامه‌ریزی کند و در مورد موارد مختلف جهت آشنایی بیشتر گفت و گو کنین
@@ -108,7 +113,7 @@ about: Only mentors can use this issue template
 
 ## هفته سوم
 
-<details>
+<details dir="rtl">
   <summary>کارهای کارآموز</summary>
   
 -  نمی‌خوایم توی کارآموزی تک‌بعدی باشی و فقط کار کنی، پس حداقل در دو مورد از دورهمی‌ها و مسابقه‌ها شرکت کن.
@@ -122,14 +127,14 @@ about: Only mentors can use this issue template
 
 ## هفته چهارم
 
-<details>
+<details dir="rtl">
   <summary>کارهای منتور سنیور</summary>
   
   -   یک جلسه [AMA](https://about.gitlab.com/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings) میان چند نفر از بچه‌ها و یکی از مدیران ارشد برنامه ریزی کن و به اطلاع کارآموز برسون</spam>
 
 </details>
 
-<details>
+<details dir="rtl">
   <summary>کارهای کارآموز</summary>
   
   -   در جلسه [AMA](https://about.gitlab.com/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings) شرکت کن و هر چیزی که در مورد تیم ستاره، گذشته‌، حال و آینده‌اش دوست داری بپرس 
