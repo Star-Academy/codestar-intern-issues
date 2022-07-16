@@ -1,7 +1,7 @@
 ---
 name: Frontend - Phase 02
 title: CodeStar[YEAR]-FE-Phase01-Team[TEAM_NUMBER]
-labels: FE
+labels: Frontend
 about: This issue template is based on frontend phase 02 document
 ---
 

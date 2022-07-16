@@ -1,7 +1,7 @@
 ---
 name: Software Engineering - Phase 05
 title: CodeStar[YEAR]-SE-Phase01-Team[TEAM_NUMBER]
-labels: SE
+labels: Software Engineering
 about: This issue template is based on software engineering phase 05 document
 ---
 
