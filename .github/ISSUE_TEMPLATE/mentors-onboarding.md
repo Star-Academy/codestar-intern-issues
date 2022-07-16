@@ -56,10 +56,10 @@ about: Only mentors can use this issue template
 ### کار‌های کارآموز
 
 -   برنامه جلسات غیر‌فنی و کارکرد هر یک را از [اینجا](https://github.com/Star-Academy/codestar-internship/blob/master/Non-Tech/non-tech-sessions.md) مطالعه کن
--   بخش جلسات دورهمی رو مطالعه کن
--   بخش جلسات AMA رو مطالعه کن
--   بخش جلسات یک به یک رو مطالعه کن
--   بخش جلسات Coffee Chats رو مطالعه کن
+    -   بخش جلسات دورهمی رو مطالعه کن
+    -   بخش جلسات AMA رو مطالعه کن
+    -   بخش جلسات یک به یک رو مطالعه کن
+    -   بخش جلسات Coffee Chats رو مطالعه کن
 -   وقتی کار‌های هفته اول رو انجام دادی لیبل "Week 01 - Complete" رو به Issue اضافه کن
 
 ## هفته دوم
