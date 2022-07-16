@@ -8,6 +8,7 @@ about: This issue template is based on software engineering phase 01 document
 -   [ ] Basic Knowledge
     -   [ ] Think individually about the questions before starting
     -   [ ] Read individually about Inverted Index
+-   [ ] Read about Pair Programming.
 -   [ ] Practice 1
     -   [ ] Implement a simple Inverted Index with Java (Pair Programming)
     -   [ ] Implement a `FileReader` class which reads all files in a folder; each file is a document in your Inverted Index
