@@ -4,8 +4,8 @@ title: SE-Phase07-Team[TEAM_NUMBER]
 labels: SE
 ---
 
--   [ ] Section 1: Read the introduction to SQL.
--   [ ] Section 2: Understand basic concepts.
+-   [ ] Section 1: Read the introduction to SQL
+-   [ ] Section 2: Understand basic concepts
 -   [ ] Section 3: Install required softwares
     -   [ ] Download SQL Server
     -   [ ] Download Azure Data Studio

@@ -22,7 +22,7 @@ labels: SE
 
     -   [ ] Play at least easy part of can't unsee game
 
--   [ ] Design a simple website for your current console-based search engine.
+-   [ ] Design a simple website for your current console-based search engine
 
 ## HTML
 
@@ -32,8 +32,8 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
-    -   [ ] Write following text inside paragraph using HTML.
-            this is <b>bold</b> and this is <i>italic</i> text.
+    -   [ ] Write following text inside paragraph using HTML
+            this is <b>bold</b> and this is <i>italic</i> text
 
         `[FILL HERE WITH YOUR ANSWER.]`
 
@@ -41,7 +41,7 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER.]`
 
-    -   [ ] Write a form with following fields. Name which is string, gender which is a radio button, age which is number and a check box for reading the privacy policy.
+    -   [ ] Write a form with following fields. Name which is string, gender which is a radio button, age which is number and a check box for reading the privacy policy
 
         `[FILL HERE WITH YOUR ANSWER.]`
 
@@ -55,7 +55,7 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
-    -   [ ] What is the syntax for linking a css file with the name of myStyle.css to html page.
+    -   [ ] What is the syntax for linking a css file with the name of myStyle.css to html page
 
         `[FILL HERE WITH YOUR ANSWER.]`
 
@@ -81,7 +81,7 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
--   [ ] Add css styles to your search engine pure html website.
+-   [ ] Add css styles to your search engine pure html website
 
 ## Javascript
 
@@ -91,7 +91,7 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
-    -   [ ] What is the syntax for loading a javascript file with the name of myCode.js to html page.
+    -   [ ] What is the syntax for loading a javascript file with the name of myCode.js to html page
 
         `[FILL HERE WITH YOUR ANSWER.]`
 
@@ -103,11 +103,11 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
-    -   [ ] Write the code for sending an AJAX post request to server. The server will get name and age as parameters.
+    -   [ ] Write the code for sending an AJAX post request to server. The server will get name and age as parameters
 
         `[FILL HERE WITH YOUR ANSWER.]`
 
--   [ ] Connect your search engine website to server api and fill the html content with your server result.
+-   [ ] Connect your search engine website to server api and fill the html content with your server result
 
 ## Angular
 
@@ -117,19 +117,19 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
-    -   [ ] Write at least three difference between typescript and javascript.
+    -   [ ] Write at least three difference between typescript and javascript
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
-    -   [ ] Install Angular.
-    -   [ ] Generate new project.
-        -   [ ] Use routing.
-        -   [ ] Use scss for styles.
-        -   [ ] Add Angular material to your project.
+    -   [ ] Install Angular
+    -   [ ] Generate new project
+        -   [ ] Use routing
+        -   [ ] Use scss for styles
+        -   [ ] Add Angular material to your project
         -   [ ] Generate two component for your search website. (one for first page and another for your result page)
-        -   [ ] Add your component to routing.
-        -   [ ] use your first page as default page when your website is visited.
-    -   [ ] Run project.
+        -   [ ] Add your component to routing
+        -   [ ] use your first page as default page when your website is visited
+    -   [ ] Run project
     -   [ ] What is a SPA application?
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
@@ -138,7 +138,7 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
--   [ ] Rewrite your search website code and use Angular for your website.
+-   [ ] Rewrite your search website code and use Angular for your website
 
 # Review
 
@@ -150,10 +150,10 @@ Link of other PR(s) you agreed to review:
 
 `[FILL HERE WITH LINK OF PR(s) YOU REVIEWED.]`
 
--   [ ] Your own PR is reviewed and approved by at least one other team.
+-   [ ] Your own PR is reviewed and approved by at least one other team
 
--   [ ] Your own PR is reviewed and approved by mentor (mentor 2).
+-   [ ] Your own PR is reviewed and approved by mentor (mentor 2)
 
--   [ ] Your own PR is reviewed and approved by manager (mentor 1).
+-   [ ] Your own PR is reviewed and approved by manager (mentor 1)
 
--   [ ] Your own PR is merged.
+-   [ ] Your own PR is merged

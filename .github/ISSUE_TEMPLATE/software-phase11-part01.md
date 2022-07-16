@@ -30,7 +30,7 @@ labels: SE
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
-    -   [ ] Try to get familier with HTTP by reading links.
+    -   [ ] Try to get familier with HTTP by reading links
     -   [ ] Why HTTP is most popular protocol in web technologies?
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
@@ -41,16 +41,16 @@ labels: SE
 
 -   [ ] Getting Started with REST:
 
-    -   [ ] Read mentioned links.
+    -   [ ] Read mentioned links
     -   [ ] Why do we need RESTful APIs?
 
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
 -   [ ] Getting Started with Asp.net Core:
 
-    -   [ ] Read mentioned links.
-    -   [ ] Create a hello world API.
-    -   [ ] Call your api from browser.
+    -   [ ] Read mentioned links
+    -   [ ] Create a hello world API
+    -   [ ] Call your api from browser
     -   [ ] Play with routing options! (Try to use it & enjoy it!)
     -   [ ] Why do we need configurable routings in web development?
 
@@ -62,12 +62,12 @@ labels: SE
         `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
     -   [ ] Play with parameter binding! (use different modes)
-    -   [ ] Install postman.
-    -   [ ] Call your APIs with postman.
+    -   [ ] Install postman
+    -   [ ] Call your APIs with postman
 
 -   [ ] Implement Asp.net Core Project:
-    -   [ ] Design your search API.
-    -   [ ] Implement & Test your API.
+    -   [ ] Design your search API
+    -   [ ] Implement & Test your API
 
 # Review
 
@@ -79,10 +79,10 @@ Link of other PR(s) you agreed to review:
 
 `[FILL HERE WITH LINK OF PR(s) YOU REVIEWED.]`
 
--   [ ] Your own PR is reviewed and approved by at least one other team.
+-   [ ] Your own PR is reviewed and approved by at least one other team
 
--   [ ] Your own PR is reviewed and approved by mentor (mentor 2).
+-   [ ] Your own PR is reviewed and approved by mentor (mentor 2)
 
--   [ ] Your own PR is reviewed and approved by manager (mentor 1).
+-   [ ] Your own PR is reviewed and approved by manager (mentor 1)
 
--   [ ] Your own PR is merged.
+-   [ ] Your own PR is merged

@@ -16,10 +16,10 @@ Link of other PR(s) you agreed to review:
 
 `[FILL HERE WITH LINK OF PR(s) YOU REVIEWED.]`
 
--   [ ] Your own PR is reviewed and approved by at least one other team.
+-   [ ] Your own PR is reviewed and approved by at least one other team
 
--   [ ] Your own PR is reviewed and approved by mentor (mentor 2).
+-   [ ] Your own PR is reviewed and approved by mentor (mentor 2)
 
--   [ ] Your own PR is reviewed and approved by manager (mentor 1).
+-   [ ] Your own PR is reviewed and approved by manager (mentor 1)
 
--   [ ] Your own PR is merged.
+-   [ ] Your own PR is merged
