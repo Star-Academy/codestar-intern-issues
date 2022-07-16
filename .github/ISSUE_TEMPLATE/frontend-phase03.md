@@ -1,21 +1,12 @@
 ---
 name: Frontend - Phase 03
-title: FE-Phase03-Team[TEAM_NUMBER]
+title: CodeStar[YEAR]-FE-Phase03-Team[TEAM_NUMBER]
 labels: FE
 ---
 
 -   [ ] Introduction
--   [ ] Setup
-    -   [ ] Node.js
-    -   [ ] SASS
 -   [ ] Learning
-    -   [ ] Nested Selectors
-    -   [ ] Variables
-    -   [ ] Mixins
+    -   [ ] UI vs UX
+    -   [ ] Fundamentals
 -   [ ] Project
-    -   [ ] Landing
-    -   [ ] Signup
-    -   [ ] Login
-    -   [ ] Songs List
-    -   [ ] Playlist
-    -   [ ] Song
+    -   [ ] Fix Possible Issues
