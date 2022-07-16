@@ -5,12 +5,12 @@ labels: SE
 ---
 
 -   [ ] Read about **CI/CD**
-    -   [ ] Briefly, what are CI and CD?
-        -   `[FILL HERE]`
-    -   [ ] Fill here some advantages of using CI/CD:
-        1. `[FILL HERE]`
-        1. `[FILL HERE]`
-        1. `[FILL HERE]`
+    -   [ ] Briefly explain, what are CI and CD?
+        -   `[ANSWER]`
+    -   [ ] Write some advantages of using CI/CD:
+        1. `[ADVANTAGE 01]`
+        1. `[ADVANTAGE 02]`
+        1. `[ADVANTAGE 03]`
 -   [ ] Getting started with CI and CD pipelines:
     -   [ ] build pipeline:
         -   [ ] Create and configure `buildPipeline.yml`
@@ -20,7 +20,7 @@ labels: SE
 -   [ ] publish pipeline:
     -   [ ] Add package configurations to your `.csproj`
     -   [ ] Create and configure `publishPipeline.yml`
-    -   [ ] Release a version on github and check if the NuGet package is pushed to [nuget.org](nuget.org)
+    -   [ ] Release a version on GitHub and check if the NuGet package is pushed to [nuget.org](https://www.nuget.org/)
 -   [ ] Create a search console app
     -   [ ] Create console app
     -   [ ] Add reference to your search library package
