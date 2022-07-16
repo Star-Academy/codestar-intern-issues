@@ -1,11 +1,14 @@
 ---
 name: Frontend - Phase 04
-title: FE-Phase04-Team[TEAM_NUMBER]
+title: CodeStar[YEAR]-FE-Phase04-Team[TEAM_NUMBER]
 labels: FE
 ---
 
 -   [ ] Introduction
 -   [ ] Learning
-    -   [ ] Variables
-    -   [ ] Regular Function vs Arrow Function
+    -   [ ] Box Model
+    -   [ ] Units
+    -   [ ] Selectors
+    -   [ ] Sass
 -   [ ] Project
+    -   [ ] Refactor Your CSS with Sass
