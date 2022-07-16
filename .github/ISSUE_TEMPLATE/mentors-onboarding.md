@@ -28,7 +28,7 @@ about: Only mentors can use this issue template
 ### کار‌های کارآموز
 
 -   از منتور پیگیری کن که به GitHub اضافه بشی
--   به ریپو [codestar-intern-issues](https://github.com/Star-Academy/codestar-intern-issues/issues/) برو و Issueئی که به اسم‌ت ثبت شده رو پیدا و به خودت assign کن
+-   به ریپو [codestar-intern-issues](https://github.com/Star-Academy/codestar-intern-issues/issues/) برو و Issueئی که به اسم‌ت ثبت شده رو پیدا و به خودت Assign کن
 -   به هم‌گروهیت پیام بده و با هم ارتباط بگیرید
 -   هماهنگ کنین هر روز تو یه ساعت مشخصی با هم جلسه داشته باشید و کار رو به صورت Pair Programming با هم شروع کنین
 -   به [سایت مستندات](https://docs.code-star.ir/) برو و فازهای مقدماتی رو شروع کن
@@ -36,13 +36,12 @@ about: Only mentors can use this issue template
 
 ## کار‌های روزانه
 
-توجه داشته باش هر روز جلسات روزانه با هم‌تیمی و منتور‌ها برگزار بشه و همچنین حتماً در کارگاه‌هایی که منتور‌ها برگزار
-می‌کنن حضور پیدا کن.
+توجه داشته باش هر روز جلسات روزانه با هم‌تیمی و منتور‌ها برگزار بشه و همچنین حتماً در کارگاه‌هایی که منتور‌ها برگزار می‌کنن حضور پیدا کن.
 
 ### کار‌های منتورها
 
 -   هر روز جلسه روزانه رو برگزار و روند رشد کارآموزها رو بررسی کنین
--   اگه مشکل فنی یا غیر فنی وجود داره که نیاز به بررسی بیشتر آکادمی داره، حتماً به مسئول آکادمی اطلاع بدین
+-   اگه مشکل فنی یا غیر فنی وجود داره که نیاز به بررسی بیشتر دوره داره، حتماً به مسئول دوره اطلاع بدین
 
 ### کار‌های کارآموز
 
@@ -55,7 +54,7 @@ about: Only mentors can use this issue template
 
 ### کار‌های کارآموز
 
--   برنامه جلسات غیر‌فنی و کارکرد هر یک را از [اینجا](https://github.com/Star-Academy/codestar-internship/blob/master/Non-Tech/non-tech-sessions.md) مطالعه کن
+-   برنامه جلسات غیر‌فنی و کارکرد هر یک را از [اینجا](https://docs.code-star.ir/docs/intro/phase03-non-tech) مطالعه کن
     -   بخش جلسات دورهمی رو مطالعه کن
     -   بخش جلسات AMA رو مطالعه کن
     -   بخش جلسات یک به یک رو مطالعه کن
@@ -70,7 +69,7 @@ about: Only mentors can use this issue template
 
 ### کارهای کارآموز
 
--   در این هفته و در هفته‌های بعد با سه نفر از اعضای باقی تیم‌ها جلسۀ Coffee Chat برگزار کن و سعی کن بیشتر با بقیه بچه‌ها در این جلسات آشنا بشی. مدت زمان پیشنهادی برای این جلسات نیم ساعته
+-   در این هفته و در هفته‌های بعد با سه نفر از اعضای باقی تیم‌ها جلسۀ [Coffee Chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) برگزار کن و سعی کن بیشتر با بقیه بچه‌ها در این جلسات آشنا بشی. مدت زمان پیشنهادی برای این جلسات نیم ساعته
 -   به جلسه [یک به یک](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/) با منتور برو
 -   وقتی کار‌های هفته دوم رو انجام دادی لیبل "Week 02 - Complete" رو به Issue اضافه کن
 
@@ -85,7 +84,7 @@ about: Only mentors can use this issue template
 
 ### کارهای منتور سنیور
 
--   یک جلسه [AMA](https://about.gitlab.com/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings) میان چند نفر از بچه‌ها و یکی از مدیران ارشد برنامه ریزی کن و به اطلاع کارآموز برسون
+-   یک جلسه [AMA](https://about.gitlab.com/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings) بین چند نفر از کارآموزها و یکی از مدیران ارشد برنامه ریزی کن و به اطلاع کارآموز برسون
 
 ### کارهای کارآموز
 
