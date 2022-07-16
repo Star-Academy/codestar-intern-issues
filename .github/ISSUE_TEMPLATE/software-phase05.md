@@ -6,15 +6,15 @@ labels: SE
 
 -   [ ] Read about **TDD** concepts
 
-    -   [ ] Fill here the steps of TDD cycle:
-        1. `[FILL HERE]`
+    -   [ ] Write the steps of TDD cycle:
+        1. `[STEPS]`
 
 -   [ ] Effects of applying **SOLID** principles in **TDD**
 
-    -   [ ] Think about that in your team, then fill here the results:
-        1. `[FILL HERE]`
-    -   [ ] Read about above title. Now fill here what do you think about effects of **SOLID** on **TDD**:
-        1. `[FILL HERE]`
+    -   [ ] Think about that in your team, then write you answer:
+        1. `[ANSWER]`
+    -   [ ] Read about above title then update your answer:
+        1. `[ANSWER]`
 
 -   [ ] Reimplement Search Project in `C#` with **TDD** approach
     -   [ ] Write tests
