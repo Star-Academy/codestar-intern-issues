@@ -1,6 +1,6 @@
 ---
 name: Onboarding (MENTORS ONLY)
-title: نام کارآموزی عزیز خوش آمدی!
+title: نام کارآموز عزیز خوش آمدی!
 labels: Onboarding
 ---
 
