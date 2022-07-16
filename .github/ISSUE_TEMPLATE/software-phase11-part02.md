@@ -1,6 +1,6 @@
 ---
 name: Software Engineering - Phase 11 - Part 2
-title: SE-Phase11-Part2-Team[TEAM_NUMBER_HERE]
+title: SE-Phase11-Part2-Team[TEAM_NUMBER]
 labels: SE
 assignees: ''
 ---

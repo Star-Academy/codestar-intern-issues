@@ -1,6 +1,6 @@
 ---
 name: Software Engineering - Phase 03
-title: CodeStar[YEAR]-SE-Phase03-Team[TEAM_NUMBER_HERE]
+title: CodeStar[YEAR]-SE-Phase03-Team[TEAM_NUMBER]
 labels: SE
 assignees: ''
 ---

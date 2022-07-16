@@ -1,6 +1,6 @@
 ---
 name: Frontend - Phase 04
-title: FE-Phase04-Team[TEAM_NUMBER_HERE]
+title: FE-Phase04-Team[TEAM_NUMBER]
 labels: FE
 assignees: ''
 ---

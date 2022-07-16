@@ -1,6 +1,6 @@
 ---
 name: Software Engineering - Phase 08
-title: SE-Phase08-Team[TEAM_NUMBER_HERE]
+title: SE-Phase08-Team[TEAM_NUMBER]
 labels: SE
 assignees: ''
 ---

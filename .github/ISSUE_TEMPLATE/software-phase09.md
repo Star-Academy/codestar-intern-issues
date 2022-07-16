@@ -1,6 +1,6 @@
 ---
 name: Software Engineering - Phase 09 (Optional, just for fast teams)
-title: SE-Phase09-Team[TEAM_NUMBER_HERE]
+title: SE-Phase09-Team[TEAM_NUMBER]
 labels: SE
 assignees: ''
 ---
