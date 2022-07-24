@@ -25,4 +25,4 @@ about: This issue template is based on frontend phase 07 document
     -   [ ] Ask Your Senior Mentor to Review and Approve Your Pull Request
     -   [ ] Merge Your Code into `main` Branch
     -   [ ] Review and Approve Another Team's Pull Request
-            Team Number: ...
+            [Pull Request Link](#)
