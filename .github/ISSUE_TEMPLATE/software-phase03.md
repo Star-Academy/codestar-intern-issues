@@ -37,9 +37,9 @@ Link to your PR:
 
 `[LINK TO YOUR PR]`
 
-Links to other PRs that you have been reviewed:
+Links to other PRs that you have reviewed:
 
-`[LINKS TO PULL REQUESTS THAT YOU HAVE BEEN REVIEWED]`
+`[LINKS TO PULL REQUESTS THAT YOU HAVE REVIEWED]`
 
 -   [ ] Your PR is reviewed and approved by at least one other team
 
