@@ -5,12 +5,12 @@ labels: Software Engineering
 about: This issue template is based on software engineering phase 07 document
 ---
 
-- [ ] Read the introduction to SQL.
-- [ ] Understand basic concepts.
+- [ ] Read the introduction to SQL
+- [ ] Understand basic concepts
 - [ ] Install required softwares
     - [ ] Download PostgreSQL
     - [ ] Download Azure Data Studio
-    - [ ] Install PostgreSQL using guidance in the link
+    - [ ] Install PostgreSQL with default configs
     - [ ] Install ADS
     - [ ] Run and configure ADS to work with Postgres
     - [ ] Create connection to the Postgres instance
@@ -22,7 +22,7 @@ about: This issue template is based on software engineering phase 07 document
         - `[FILL HERE]` for a boolean variable
         - `[FILL HERE]` for stature
 - [ ] Store some data
-    - [ ] Create a table with arbitrary columns with data types you learned in previous section
+    - [ ] Create a table with arbitrary columns with data types you learned in the previous section
     - [ ] Insert some sample data into your table
     - [ ] Retrieve your data with different `SELECT` statements and different conditions
     - [ ] Try to change at least one of your table columns attributes using `ALTER` statement
