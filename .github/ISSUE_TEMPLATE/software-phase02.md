@@ -62,7 +62,7 @@ about: This issue template is based on software engineering phase 02 document
     -   [ ] Read Review Guides
     -   [ ] While another team is reviewing your PR, you should also review their PR (or even find a third team and review their PR)
 
-        `[LINKS TO PULL REQUESTS THAT YOU HAVE BEEN REVIEWED]`
+        `[LINKS TO PULL REQUESTS THAT YOU HAVE REVIEWED]`
 
     -   For your own PR:
 
