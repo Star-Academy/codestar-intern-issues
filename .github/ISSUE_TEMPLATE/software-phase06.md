@@ -1,5 +1,5 @@
 ---
-name: Software Engineering - Phase 06 (Optional, just for fast teams)
+name: Software Engineering - Phase 06
 title: CodeStar[YEAR]-SE-Phase06-Team[TEAM_NUMBER]
 labels: Software Engineering
 about: This issue template is based on software engineering phase 06 document
