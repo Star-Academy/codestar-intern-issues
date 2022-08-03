@@ -36,7 +36,6 @@ about: This issue template is based on software engineering phase 07 document
         - Try inserting none existing foreign key. Error [ ]
         - Try inserting duplicate foreign key. Error [ ]
         - Try inserting `NULL` foreign key. Error [ ]
-- [ ] Try writing an if clause using a variable
 - [ ] Perceive different types of joins
     - [ ] Write the corresponding set operation for each join like the given example
         - A Inner Join B : A ∩ B
