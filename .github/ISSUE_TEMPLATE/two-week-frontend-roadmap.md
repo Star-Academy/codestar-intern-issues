@@ -5,6 +5,9 @@ labels: Frontend Two Week RoadMap
 about: This issue template is for frontend mentees
 ---
 
+##Basics
+- [ ] [Read Health and Git Part of Intro documents](https://star-academy.github.io/codestar-documents/docs/intro)
+
 ## HTML
 - [ ] [Semantic HTML](https://web.dev/learn/html/semantic-html)
 - [ ] [Headings and sections](https://web.dev/learn/html/headings-and-sections)
