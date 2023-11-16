@@ -1,4 +1,9 @@
-# Frontend RoadMap
+---
+name: Frontend Two Week RoadMap
+title: Frontend-Two-Week-RoadMap-[YOUR_LASTNAME(S)]
+labels: Frontend Two Week RoadMap
+about: This issue template is for frontend mentees
+---
 
 ## HTML
 - [ ] [Semantic HTML](https://web.dev/learn/html/semantic-html)
