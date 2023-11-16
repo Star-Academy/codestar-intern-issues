@@ -5,6 +5,9 @@ labels: Backend Two Week RoadMap
 about: This issue template is for backend mentees
 ---
 
+##Basics
+- [ ] [Read Health and Git Part of Intro documents](https://star-academy.github.io/codestar-documents/docs/intro)
+
 ##[Phase 1](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase01-simple-project)
 
 -   [ ] Introduction
