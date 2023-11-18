@@ -35,7 +35,6 @@ about: This issue template is for frontend mentees
 - [ ] Implement a landing page for a game store website using only html and css.
 - [ ] Make a pr (pull request) in github.
 - [ ] Get your pr approved by 2 person.
-- [ ] 
 ## JS
 - [ ] [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [ ] [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
