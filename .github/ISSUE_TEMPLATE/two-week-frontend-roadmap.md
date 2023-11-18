@@ -30,7 +30,12 @@ about: This issue template is for frontend mentees
 - [ ] [Pseudo-classes](https://web.dev/learn/css/pseudo-classes)
 - [ ] [Functions](https://web.dev/learn/css/functions)
 - [ ] [Overflow](https://web.dev/learn/css/overflow)
-
+- [ ] 
+## Exercise 1 (landing page)
+- [ ] Implement a landing page for a game store website using only html and css.
+- [ ] Make a pr (pull request) in github.
+- [ ] Get your pr approved by 2 person.
+- [ ] 
 ## JS
 - [ ] [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [ ] [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
