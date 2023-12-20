@@ -8,29 +8,24 @@ about: This issue template is for backend mentees
 ##Basics
 - [ ] [Read Health and Git Part of Intro documents](https://star-academy.github.io/codestar-documents/docs/intro)
 
-##[Phase 1](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase01-simple-project)
+## [Phase 1](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase01-simple-project)
 
--   [ ] Introduction
--   [ ] Definition
-    -   [ ] Data Extraction
-    -   [ ] Data Transformation
-    -   [ ] Data Loading
--   [ ] Learning
-    -   [ ] Register
-    -   [ ] Datasets
-    -   [ ] Pipelines
-    -   [ ] Add Source
-    -   [ ] Add Destination
-    -   [ ] Processors
-    -   [ ] Filters
-    -   [ ] Run Pipeline
-    -   [ ] Cleansing
-    -   [ ] Aggregation
-    -   [ ] Join
-    -   [ ] Export
-    -   [ ] Share
+-   [ ] Basic Knowledge
+    -   [ ] Think individually about the questions before starting
+    -   [ ] Read individually about Inverted Index
+-   [ ] Read about Pair Programming.
+-   [ ] Practice 1
+    -   [ ] Implement a simple Inverted Index with Java (Pair Programming)
+    -   [ ] Implement a `FileReader` class which reads all files in a folder; each file is a document in your Inverted Index
+    -   [ ] Implement an `InvertedIndex` class which contains all tokens and the list of related documents per each token
+    -   [ ] Test your program with sample dataset mentioned in the doc
+-   [ ] Practice 2
+    -   [ ] Add support for words that start with + (or feature)
+    -   [ ] Add support for words that start with nothing (and feature)
+    -   [ ] Add support for words that start with - (exclude feature)
 
-##[Phase 2](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase02-clean-code)
+
+## [Phase 2](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase02-clean-code)
 
 -   [ ] Clean Code Importance
 
@@ -86,7 +81,7 @@ about: This issue template is for backend mentees
 -   [ ] Code Review:
     -   [ ] Read Review Guides
        
-##[Phase 3](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase03-c-sharp)
+## [Phase 3](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase03-c-sharp)
 
 -   [ ] Install **Requirements**:
 
@@ -114,7 +109,7 @@ about: This issue template is for backend mentees
 
 -   [ ] Implement Student Grades & Average Project in C#
 
-##[Phase 4](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase04-unit-test)
+## [Phase 4](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase04-unit-test)
 
 -   [ ] Read about **Unit Test** and its importance
 
@@ -149,7 +144,7 @@ about: This issue template is for backend mentees
     -   [ ] Increase code coverage (line or statement coverage) to at least 95%:
             `[CODE COVERAGE PERCENTAGE]`
 
-##[Phase 5](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase05-tdd)
+## [Phase 5](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase05-tdd)
 
 -   [ ] Read about **TDD** concepts
 
@@ -169,7 +164,7 @@ about: This issue template is for backend mentees
     -   [ ] Run tests and debug if some tests fail
     -   [ ] Refactor your code
 
-##[Phase 6](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase07-SQL)
+## [Phase 6](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase07-SQL)
 
 - [ ] Read the introduction to SQL
 - [ ] Understand basic concepts
@@ -212,11 +207,11 @@ about: This issue template is for backend mentees
 - [ ] Work with functions
     - [ ] Write a query for each present function in the document
      
-##[Phase 7](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase08-EFCore)
+## [Phase 7](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase08-EFCore)
 
 - [ ] Implement Top 3 Student project with EfCore in C#
 
-##[Phase 8](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase09-web)
+## [Phase 8](https://star-academy.github.io/codestar-documents/docs/software-engineering/phase09-web)
 
 ## Web history
 
