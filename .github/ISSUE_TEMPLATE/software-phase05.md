@@ -17,9 +17,9 @@ about: This issue template is based on software engineering phase 05 document
     -   [ ] Read about above title then update your answer:
         1. `[ANSWER]`
 
--   [ ] Reimplement Search Project in `C#` with **TDD** approach
+-   [ ] Implementation of phrase search with **TDD** approach
     -   [ ] Write tests
-    -   [ ] Implement the Search project so that all tests are passed
+    -   [ ] Implement the phrase search project so that all tests are passed
     -   [ ] Run tests and debug if some tests fail
     -   [ ] Refactor your code
 
