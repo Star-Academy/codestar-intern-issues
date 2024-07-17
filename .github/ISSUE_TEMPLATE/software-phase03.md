@@ -1,8 +1,8 @@
 ---
-name: Software Engineering - Phase 02
-title: CodeStar[YEAR]-SE-Phase02-Team[TEAM_NUMBER]
+name: Software Engineering - Phase 03
+title: CodeStar[YEAR]-SE-Phase03-Team[TEAM_NUMBER]
 labels: Software Engineering
-about: This issue template is based on software engineering phase 02 document
+about: This issue template is based on software engineering phase 03 document
 ---
 
 -   [ ] Clean Code Importance
@@ -64,19 +64,19 @@ about: This issue template is based on software engineering phase 02 document
 
         `[LINKS TO PULL REQUESTS THAT YOU HAVE REVIEWED]`
 
-    -   For your own PR:
+    - For your own PR:
 
         - [ ] Go back to your own PR and correct your code according to reviewers feedback (comments)
 
         - [ ] After fixing all comments ask reviewers to approve your PR
 
-        - [ ] When the other team approved, ask your junior mentor to review your PR
-        
-        - [ ] When you junior mentor approved, ask your senior mentor to review your PR
+        - [ ] When the other team approved, ask your mentor to review your PR
+
+        - [ ] When you junior mentor approved, ask your senior to review your PR
 
         - [ ] When they approved, you can merge your PR to master branch
 
-    -   For PR(s) you agreed to review:
+    - For PR(s) you agreed to review:
 
         -   [ ] Ask PR owners to fix issues in their codes
 
