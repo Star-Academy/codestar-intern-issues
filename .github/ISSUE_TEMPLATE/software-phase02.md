@@ -1,6 +1,6 @@
 ---
 name: Software Engineering - Phase 02
-title: CodeStar[YEAR]-SE-Phase01-Team[TEAM_NUMBER]
+title: CodeStar[YEAR]-SE-Phase02-Team[TEAM_NUMBER]
 labels: Software Engineering
 about: This issue template is based on software engineering phase 02 document
 ---
