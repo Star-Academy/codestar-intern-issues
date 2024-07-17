@@ -37,10 +37,6 @@ Link to your PR:
 
 `[LINK TO YOUR PR]`
 
-Links to other PRs that you have reviewed:
-
-`[LINKS TO PULL REQUESTS THAT YOU HAVE REVIEWED]`
-
 -   [ ] Your PR is reviewed and approved by both mentors
 
 -   [ ] Your PR is merged
