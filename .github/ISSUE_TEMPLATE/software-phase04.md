@@ -31,9 +31,7 @@ about: This issue template is based on software engineering phase 04 document
     -   [ ] Find out why we should use mocking in unit tests
     -   [ ] Find out how to use mocking in C#
 
--   [ ] Writing unit tests for simple calculator
-    -   [ ] Clone Project from [here](https://github.com/Star-Academy/SimpleCalculator)
-    -   [ ] Copy project to your own Repository
+-   [ ] Writing unit tests for full text search project
     -   [ ] Start writing tests
     -   [ ] Increase code coverage (line or statement coverage) to at least 95%:
             `[CODE COVERAGE PERCENTAGE]`
