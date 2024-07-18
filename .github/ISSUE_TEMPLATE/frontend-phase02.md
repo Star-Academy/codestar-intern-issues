@@ -29,9 +29,9 @@ about: This issue template is based on frontend phase 02 document
 
 -   [ ] Project
     -  [ ] Read the project instruction from documents and write your answers.
-        1. `your answer`
-        2. `your answer`
-        4. `your answer`
+          1. `your answer`
+          2. `your answer`
+          3. `your answer`
       
     
     

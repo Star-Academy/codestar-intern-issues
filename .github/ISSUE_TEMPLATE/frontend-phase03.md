@@ -7,7 +7,5 @@ about: This issue template is based on frontend phase 03 document
 
 -   [ ] Introduction
 -   [ ] Learning
-    -   [ ] UI vs UX
-    -   [ ] Fundamentals
--   [ ] Project
-    -   [ ] Fix Possible Issues
+    - [ ] Write a summery about what you learn in this section. `your answer`¬
+    
