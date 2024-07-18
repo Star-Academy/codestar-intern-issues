@@ -11,7 +11,7 @@ about: This issue template is based on software engineering phase 11 document
 
 ### Basics
 
-- [ ] Understanding Networks:
+- [ ] Understanding Network:
 
   - [ ] Explain the difference between a LAN (Local Area Network) and a WAN (Wide Area Network).
 
@@ -48,10 +48,32 @@ about: This issue template is based on software engineering phase 11 document
   
     `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
+- [ ] Understanding TCP (optional):
+  - [ ] Read mentioned links.
+  - [ ] How does TCP ensure the reliable delivery of data packets?
+
+    [FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]
+
+- [ ] Understanding UDP (optional):
+  - [ ] Read mentioned links.
+  - [ ] Why is UDP considered a connectionless protocol?
+
+    [FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]
+
+  - [ ] What are the differences between TCP and UDP?
+
+    [FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]
+
+- [ ] Understanding FTP (optional):
+  - [ ] Read mentioned links.
+  - [ ] What is FTPS, and how does it enhance the security of FTP?
+    [FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]
+
 
 ### Tools
 
-- [ ] Read about Wireshark:
+- [ ] Getting Started with Wireshark:
+  - [ ] Watch the related videos.
   - [ ] Explain the main functionalities of Wireshark and how it can be used to analyze network traffic.
     
     `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
@@ -60,7 +82,8 @@ about: This issue template is based on software engineering phase 11 document
 
     `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
 
-- [ ] Read about Postman:
+- [ ] Getting Started with Postman:
+  - [ ] Watch the related videos.
   - [ ] Describe the steps to create and send a HTTP request using Postman.
     
     `[FILL HERE WITH YOUR ANSWER. (feel free to write in persian)]`
