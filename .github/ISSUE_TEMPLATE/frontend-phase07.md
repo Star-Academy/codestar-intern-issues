@@ -1,22 +1,24 @@
 ---
-name: Frontend - Phase 07
-title: CodeStar[YEAR]-FE-Phase07-Team[TEAM_NUMBER]
+name: Frontend - Phase 06
+title: CodeStar[YEAR]-FE-Phase06-Team[TEAM_NUMBER]
 labels: Frontend
-about: This issue template is based on frontend phase 07 document
+about: This issue template is based on frontend phase 06 document
 ---
 
 -   [ ] Introduction
 -   [ ] Learning
-    -   [ ] Definition
-    -   [ ] GitHub Actions
-        -   [ ] Setup
-        -   [ ] Conditions
-        -   [ ] Test
-        -   [ ] Build
-        -   [ ] Deploy
-        -   [ ] Monitor
+    -   [ ] Clean Code
+    -   [ ] Code Smells
+    -   [ ] S.O.L.I.D
+    -   [ ] Refactoring Techniques
+    -   [ ] Open-Source
+    -   [ ] IDE
+    -   [ ] General
+    -   [ ] CSS
+    -   [ ] Angular
+    -   [ ] Comment Dictionary
 -   [ ] Project
-    -   [ ] Add CI/CD to Your Project
+    -   [ ] Fix The Issues in Your Project
     -   [ ] Create a Pull Request
             [Pull Request Link](#)
     -   [ ] Contact Another Team And Ask Them to Review and Approve Your Pull Request

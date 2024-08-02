@@ -5,26 +5,23 @@ labels: Frontend
 about: This issue template is based on frontend phase 06 document
 ---
 
--   [ ] Introduction
 -   [ ] Learning
-    -   [ ] Clean Code
-    -   [ ] Code Smells
-    -   [ ] S.O.L.I.D
-    -   [ ] Refactoring Techniques
-    -   [ ] Open-Source
-    -   [ ] IDE
-    -   [ ] General
-    -   [ ] CSS
-    -   [ ] Angular
-    -   [ ] Comment Dictionary
+    -   [ ] What is a package manager? Can you provide two examples of package managers? `your awnser`
+    -   [ ] What is Angular CLI? `your awnser`
+    -   [ ] Which lifecycle method is called first? `your awnser`
+    -   [ ] Which lifecycle method is called last? `your awnser`
+    -   [ ] Which lifecycle method is called when some change happen? `your awnser`
+    -   [ ] Consider that we want to initialize a property and display it in the HTML template. Which lifecycle method should we use? `your awnser`
+    -   [ ] When we want to use services with injection in the root, what design pattern do we use?
+        ```typescript
+          @Injectable({
+               providedIn: 'root',
+           })
+        ```
+        `your awnser`
+     
+    -   [ ] Can you explain some built-in pipes in Angular? `your awnser`
+    -   [ ] What kind of binding do we use when we want to change and update a property that is passed to a child component, or vice versa? `your awnser`
+
 -   [ ] Project
-    -   [ ] Fix The Issues in Your Project
-    -   [ ] Create a Pull Request
-            [Pull Request Link](#)
-    -   [ ] Contact Another Team And Ask Them to Review and Approve Your Pull Request
-            Team Number: ...
-    -   [ ] Ask Your Normal Mentor to Review and Approve Your Pull Request
-    -   [ ] Ask Your Senior Mentor to Review and Approve Your Pull Request
-    -   [ ] Merge Your Code into `main` Branch
-    -   [ ] Review and Approve Another Team's Pull Request
-            [Pull Request Link](#)
+    -   [ ] Complete the book collection manager project mentioned in the Angular documentation.

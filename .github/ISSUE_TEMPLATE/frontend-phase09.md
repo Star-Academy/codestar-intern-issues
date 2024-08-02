@@ -1,21 +1,27 @@
 ---
-name: Frontend - Phase 09
-title: CodeStar[YEAR]-FE-Phase09-Team[TEAM_NUMBER]
+name: Frontend - Phase 08
+title: CodeStar[YEAR]-FE-Phase08-Team[TEAM_NUMBER]
 labels: Frontend
-about: This issue template is based on frontend phase 09 document
+about: This issue template is based on frontend phase 08 document
 ---
 
 -   [ ] Introduction
 -   [ ] Learning
-    -   [ ] Testing Approaches
-        -   [ ] Manual Testing
-        -   [ ] End-to-End Testing
-        -   [ ] Integration Testing
-        -   [ ] Unit Testing
-    -   [ ] Unit Testing in Angular
-    -   [ ] Mocking
+    -   [ ] Storages
+        -   [ ] Document.cookie
+        -   [ ] Window.sessionStorage
+        -   [ ] Window.localStorage
+    -   [ ] JSON
+    -   [ ] HTTP
+    -   [ ] HTTP vs HTTPS
+    -   [ ] RESTful API
+    -   [ ] Fetch API
+    -   [ ] JWT
 -   [ ] Project
-    -   [ ] Write Unit Tests for Every Component and Service in Your Project
+    -   [ ] Add Login Page to Your Project
+    -   [ ] Add Register Page to Your Project
+    -   [ ] Add Profile Page to Your Project
+    -   [ ] Add Auth Guard to Your Project
     -   [ ] Create a Pull Request
             [Pull Request Link](#)
     -   [ ] Contact Another Team And Ask Them to Review and Approve Your Pull Request
