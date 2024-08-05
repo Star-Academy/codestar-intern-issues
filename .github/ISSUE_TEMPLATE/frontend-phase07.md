@@ -1,8 +1,8 @@
 ---
-name: Frontend - Phase 06
-title: CodeStar[YEAR]-FE-Phase06-Team[TEAM_NUMBER]
+name: Frontend - Phase 07
+title: CodeStar[YEAR]-FE-Phase07-Team[TEAM_NUMBER]
 labels: Frontend
-about: This issue template is based on frontend phase 06 document
+about: This issue template is based on frontend phase 07 document
 ---
 
 -   [ ] Learning
