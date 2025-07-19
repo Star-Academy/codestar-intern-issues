@@ -4,6 +4,9 @@ title: CodeStar[YEAR]-DevOps-Phase04-Team[TEAM_NUMBER]
 labels: DevOps
 about: This issue template is for DevOps phase 04
 ---
+
+# HA Concept
+
 Feel free to answer in Persian
 - What is the importance of having a HA infrastructure?
   `[ANSWER]`
