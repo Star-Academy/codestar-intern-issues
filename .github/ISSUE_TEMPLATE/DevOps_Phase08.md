@@ -10,7 +10,7 @@ about: This issue template is for DevOps phase 08
 Feel free to answer in Persian.
 - Explain the benefits of Kubernetes over running containers on a single server
   `[ANSWER]`
-- What do Control Plane nodes do, and what do Worker nodes do?
+- What are the roles of Control Plane nodes and Worker nodes?
   `[ANSWER]`
 - [ ] Install Kind
 - [ ] Run your first app on Kubernetes
