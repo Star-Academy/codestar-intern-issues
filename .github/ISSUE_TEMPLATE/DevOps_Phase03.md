@@ -4,6 +4,9 @@ title: CodeStar[YEAR]-DevOps-Phase03-Team[TEAM_NUMBER]
 labels: DevOps
 about: This issue template is for DevOps phase 03
 ---
+
+# Nginx
+
 Feel free to answer in Persian
 - What is the difference between a static and a dynamic web server?
   `[ANSWER]`

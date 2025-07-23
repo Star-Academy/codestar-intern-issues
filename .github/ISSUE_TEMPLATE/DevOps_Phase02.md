@@ -4,6 +4,9 @@ title: CodeStar[YEAR]-DevOps-Phase02-Team[TEAM_NUMBER]
 labels: DevOps
 about: This issue template is for DevOps phase 02
 ---
+
+# Computer Networks
+
 Feel free to answer in Persian
 - What is a protocol?
   `[ANSWER]`
